@@ -1,4 +1,4 @@
-What is HTML?
+<h1> What is HTML? </h1>
 
 HTML (HyperText Markup Language) is the skeleton of a webpage.
 It tells the browser what each piece of content is — a heading, a paragraph, an image, etc.
